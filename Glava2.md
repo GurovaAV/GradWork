@@ -13,5 +13,5 @@
 6. Развитие ребенка до года (identdeveloper);
 7. Зайка Развивайка (Alex Positive).
 
-![Окно Wachanga при запуске программы](https://github.com/GurovaAV/GradWork/raw/master/images/Screenshot_20230119-141923.png)
+![Окно Wachanga при запуске программы](https://github.com/GurovaAV/GradWork/blob/main/images/Screenshot_20230119-141923.png)
 
